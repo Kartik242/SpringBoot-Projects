@@ -1,0 +1,4 @@
+com\kartikeye\Student\App\repo\StudentRepo.class
+com\kartikeye\Student\App\model\Student.class
+com\kartikeye\Student\App\StudentAppApplication.class
+com\kartikeye\Student\App\controller\StudentController.class
